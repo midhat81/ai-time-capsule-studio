@@ -180,7 +180,7 @@ location.reload();
 **Muhammad Midhat**
 
 - GitHub: [@midhat81](https://github.com/midhat81)
-- LinkedIn: [Connect with me](https://linkedin.com/in/your-profile)
+- LinkedIn: [Connect with me](https://linkedin.com/in/muhammadmidhat81)
 
 ## 📄 License
 
