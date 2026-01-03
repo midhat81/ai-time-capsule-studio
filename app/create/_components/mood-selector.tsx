@@ -50,7 +50,6 @@ export function MoodSelector({ selectedMood, onMoodSelect }: MoodSelectorProps) 
             </div>
             {selectedMood === mood.label && (
               <motion.div
-                className="absolute inset-0 rounded-xl bg-gradient-to-br opacity-10"
                 initial={{ opacity: 0 }}
                 animate={{ opacity: 0.1 }}
                 className={`absolute inset-0 rounded-xl bg-gradient-to-br ${mood.color} opacity-10`}
